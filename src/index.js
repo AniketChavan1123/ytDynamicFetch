@@ -7,7 +7,7 @@ import VideoDetails from './components/video_details';
 // Create a new Component some HTML
 // This component should produce some HTML
 
-const API_KEY="AIzaSyB94WpXjtQFpgsf1FniMehbHboIO_0W8Bo";
+const API_KEY="AIzaSyCP3ofywWs7TU04dXOJAkr3nCnvegM13OY";
 
 
 class App extends Component{             // class based components
