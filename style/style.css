@@ -1,7 +1,13 @@
-
 .search-bar{
-    margin:20px;
+    margin:50px;
     text-align: center;
+}
+h1{
+    text-align:center;
+    margin:10px;
+}
+p{
+    margin-left: 10px;
 }
 .search-bar input{
     width:75%;
